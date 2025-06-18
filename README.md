@@ -1,4 +1,4 @@
-# todo_with_mvvm
+# Todo_with_mvvm
 
 Este projeto é um aplicativo de tarefas (ToDo) desenvolvido em Flutter utilizando o padrão de arquitetura MVVM (Model-View-ViewModel). O objetivo é criar uma aplicação moderna, escalável e de fácil manutenção, que permita ao usuário gerenciar suas tarefas diárias de forma simples e intuitiva.
 
@@ -21,26 +21,21 @@ O objetivo deste projeto é:
 
 ## Imagens do Projeto
 
-> Substitua os caminhos abaixo pelas imagens reais do seu projeto, por exemplo: `assets/screenshots/home.png`
+| Tela de Login | Tela Inicial |
+|:------------:|:----------------:|
+| ![Tarefa Login](assets/image/register_screen.png)| ![Tela Inicial](assets/image/home_screen.png) |
 
-### Tela Inicial
+| Tela de Adicionar Tarefa | Logo|
+|:----------------:|:-------------------:|
+| ![Adicionar Tarefa](assets/image/create_todo_screen.png) | ![Logo](assets/image/logo.png) |
 
-![Tela Inicial](assets/screenshots/home.png)
-
-### Adicionar Tarefa
-
-![Adicionar Tarefa](assets/screenshots/add_task.png)
-
-### Tarefa Concluída
-
-![Tarefa Concluída](assets/screenshots/completed_task.png)
 
 ## Arquitetura
 
-Este projeto segue o padrão [MVVM (Model-View-ViewModel)](https://docs.flutter.dev/development/data-and-backend/state-mgmt/intro), recomendado para projetos Flutter de médio e grande porte.
+Este projeto segue o padrão, recomendado para projetos Flutter de médio e grande porte.
 
 Para saber mais sobre arquitetura oficial do Flutter, acesse:  
-[https://docs.flutter.dev/development/data-and-backend/state-mgmt/intro](https://docs.flutter.dev/development/data-and-backend/state-mgmt/intro)
+[https://docs.flutter.dev/app-architecture](https://docs.flutter.dev/app-architecture)
 
 ---
 
